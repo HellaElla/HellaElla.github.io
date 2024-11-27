@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "On Writing (This Blog)"
-date:   2024-11
+date:   2024-11-27
 categories:
 ---
 

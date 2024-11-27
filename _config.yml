@@ -1,4 +1,7 @@
-url: "https://hellaella.github.io/"
+title: 'hellaella.github.io'
+description: "A personal blog about some things."
+baseurl:
+url: "https://hellaella.github.io"
 
 header_pages:
   - index.md
@@ -6,7 +9,7 @@ header_pages:
 
 style: dark
 
-footer: 
+footer: 'follow me on <a href="https://www.instagram.com/benavidxs/">instagram</a>'
 
 # Build settings
 markdown: kramdown

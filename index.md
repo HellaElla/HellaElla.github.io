@@ -26,3 +26,5 @@ Composer
 While some people might say my work is about the intersection of art & technology, tech really just enables me to produce results.
 
 I work with languages such as [Pure Data](https://puredata.info/) , [Max/MSP](https://cycling74.com/), (some) Python, and Csound.
+
+# Blog Posts:

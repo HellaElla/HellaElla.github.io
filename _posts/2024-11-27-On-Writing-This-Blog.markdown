@@ -7,7 +7,7 @@ categories:
 
 # I am Writing a Blog now... I guess
 
-I am writing a blog now I guess... 
+
 I've been wanting to give this a shot for a while now, but I've had this recurring fear of having nothing to say.
 Arguably, I feel like for a writer, sometimes just saying whatever might be better than saying nothing at all, even if sloppy, or terrible. 
 So I guess I'm giving it a try. 

@@ -4,11 +4,20 @@ layout: home
 permalink: /
 ---
 
-# Other Demo Pages
+# Welcome!
+My name is Ella...
 
-[Light](https://b2a3e8.github.io/jekyll-theme-console-demo-light/)
-[Hacker](https://b2a3e8.github.io/jekyll-theme-console-demo-hacker/)
+Here is my tiny blog site. Sometimes I write about **Art, Music, and Technology** and really whatever else I am thinking about at the time.
 
-# Welcome
+I am a graduate student in New York, working on Media Arts projects, Spatial audio and some mediocre software development projects.
+Outside of that I am also a synthesizer enthusiast, currently getting my ~~shit together~~ bearings to participate in a composer residency in Boston. 
+I hold a B.M from Berklee College of Music, Boston.
 
-Bla bla bla bla. Bla bla bla bla bla bla bla bla.
+#What I do
+Honestly, describing my work gets sort of nebolous at times. 
+I label myself as:
+An artist
+Sound Designer
+Composer
+
+While some people might say my work is about the intersection of art & technology, tech really just enables me to produce results.

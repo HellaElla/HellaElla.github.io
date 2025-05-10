@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Done With Grad School, so here's a paper"
+title:  "Done With Grad School, so here's a paper about Reverb"
 date:   2025-05-09
 categories:
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Room Simulation & Reverberation Approaches for Binaural systems"
+title:  "Room Simulation & Reverberation Approaches for Spatialized Audio"
 date:   2025-05-25
 categories:
 ---

@@ -5,7 +5,7 @@ date:   2025-05-09
 categories:
 ---
 
-# Grad School
+# About Grad School
 
 
 Thesis defense was Thursday, went ok. 

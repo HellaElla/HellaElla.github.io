@@ -6,10 +6,13 @@ categories:
 ---
 
 # Grad School
+
+
 Thesis defense was Thursday, went ok. 
 Just submitted my last paper today, and I thought it was pretty casual and ok... decent and interesting enough to put here, so here goes!
 
 ## Room Simulation and Artificial Reverberation approaches within the context of Spatialized Audio Applications.
+
 
 Artificial Reverberation has been available for over 50 years at this point, with the advent
 of techniques for generation of artificial reverb and room simulation via computational methods
@@ -36,7 +39,7 @@ three main methodologies:
 3. Acoustical computation/ geometrical acoustics.
 In this paper we will focus on Delay Networs and Convolutional Techniques.
 
-*Delay Networks and Schroeder:*
+### *Delay Networks and Schroeder:*
 
 Artificial Reverberation using Delay Networks was first introduced in 1960 and utilized a series
 of allpass filters in combination with comb filters to produce a series of delays, spectral content
@@ -59,7 +62,7 @@ simplified FIR filter and Moore (1979) expanding on this to introduce a simple f
 low-pass filter within the feedback loop in the comb filter stage of the design to simulate air
 absorption.
 
-*Feedback Delay Networks and Binaural Applications:*
+### *Feedback Delay Networks and Binaural Applications:*
 
 The use of impulse response-convolution methods can be a good approach for exact
 simulation if the acoustical properties of a room, however for dynamic applications
@@ -86,7 +89,7 @@ stemming from the image source model correspond to the output of the reverberato
 which is thus then convolved with the HRTF that is appropriate for the position given; frequency
 dependent dampening can be implemented as well using filters inside the loop. (Menzer, 2010)
 
-*A Note on Geometrical Acoustics*
+### *A Note on Geometrical Acoustics*
 
 Physically based approaches aim to approximate solutions for the wave equation, since
 solving the wave equation for audible ranges in large spaces is computationally intensive. The
@@ -99,7 +102,9 @@ approaches have been suggested in order to generate Binaural Room Impulses with 
 computational load (Wendt, van de Par and Ewert, 2014). However, the focus here is not on
 geometrical acoustics.
 
-*Impulse Response Methods:*
+### *Impulse Response Methods:*
+
+
 Impulse responses in tandem with convolution have been a tested approach to room simulation,
 where the implementation of convolutional reverb is equivalent to the large FIR filtering of a
 signal, with zero delay convolutional approaches being currently widely used (Gardner, 1995),especially considering fast convolution based implementations where the convolution is
@@ -111,7 +116,7 @@ reversed signal used during measurement to obtain the impulse response. Convolvi
 with the resulting impulse response will result in the output of the system that the impulse
 response represents.
 
-*Using Binaural Room Impulse Responses:*
+### *Using Binaural Room Impulse Responses:*
 
 As seen above, a standard approach to simulating static binaural reverberation is by
 utilizing Binaural Room Impulse Responses. A simulated reverberant sound can be produced by
@@ -134,7 +139,7 @@ application of FDN reverb outlined above, where the output of delay lines is con
 corresponding number of spatially distributed HRTF locations; this system is suited for 6 degrees
 of freedom and can result in mostly good subjective ratings.
 
-*Closing Thoughts:*
+### *Closing Thoughts:*
 
 While Artifcial Reverberation has been available for quite some time, ranging from
 physical-analog methods to computationally efficient implementations for simulating complex
@@ -149,7 +154,7 @@ hybrid techniques have provided more options and flexibility for this use case. 
 between these methods can reflect the trade offs between perceptual realism and physical
 accuracy.
 
-*References*
+### *References*
 
 Chowning, J. M. (1977). The Simulation of Moving Sound Sources. Computer Music Journal,
 1(3), 48. https://doi.org/10.2307/3679609

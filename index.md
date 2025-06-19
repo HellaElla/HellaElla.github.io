@@ -11,7 +11,7 @@ Here is my tiny blog site. Sometimes I write about **Art, Music, and Technology*
 
 I am a graduate student in New York, working on Media Arts projects, Spatial audio and some mediocre software development projects.
 Outside of that I am also a synthesizer enthusiast, composer and human.
-I hold a B.M from Berklee College of Music and completing an M.M degree in Music Technology from New York University.
+I hold a B.M from Berklee College of Music and an Masters in Music Technology from New York University.
 
 # What I do
 Honestly, describing my work gets sort of nebulous at times. 
